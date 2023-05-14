@@ -1,0 +1,25 @@
+/* :root {
+    --primary-color:var(--prima
+} */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-title h1{
+    margin: auto;
+}
+
+.product img{
+    border-radius: 10px;
+    /* border: 1px solid red; */
+}
+
+.product h6 {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.ratings {
+    width: 40%;
+}
